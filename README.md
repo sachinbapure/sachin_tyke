@@ -18,3 +18,4 @@ About The Project.
     1. Header folder has Navbar and it's smaller text box components.
     2. Navbar a seperate folder reason, Just saw responsive can be all together new component. Have rendered using CSS for mobile and Desktop.
     3. Header.jsx is the entry point for the Menu.
+4. Utils folder has api.js file for API calls.
